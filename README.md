@@ -4,6 +4,12 @@
 
 Me chamo Douglas, tenho 27 anos e sou natural de Minas Gerais, ao concluir o ensino médio, me formei como Tecnico em TI e logo após adentrei a faculdade de Analise e Desenvolvimento de Sistemas. Estou concluindo um curso de FullStack do Vai Na Web, me aprofundando em tecnologias especificas para o mercado, apaixonado por tecnologias e aplicações!
 
+### Contatos:
+
+
+<a href="https://instagram.com/dougiiee__" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:dodolaureano@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/douglas-laureano-667b10150" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 ---
 
@@ -73,6 +79,7 @@ Me chamo Douglas, tenho 27 anos e sou natural de Minas Gerais, ao concluir o ens
 ### 📊 Estatísticas
 
 <p>
+    
   <img 
     align="left" 
     alt="GitHub Stats" 
