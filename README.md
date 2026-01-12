@@ -84,7 +84,7 @@ Me chamo Douglas, tenho 27 anos e sou natural de Minas Gerais, ao concluir o ens
     align="left" 
     alt="GitHub Stats" 
     height="180" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10 px;" 
     src="https://github-readme-stats.vercel.app/api?username=Dougiiee&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
