@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Douglas, tenho 27 anos e sou natural de Minas Gerais, ao concluir o ensino médio, me formei como Tecnico em TI e logo após adentrei a faculdade de Analise e Desenvolvimento de Sistemas. Estou concluindo um curso de FullStack do Vai Na Web, me aprofundando em tecnologias especificas para o mercado, apaixonado por tecnologias e aplicações!
+Me chamo Douglas, tenho 28 anos e sou natural de Minas Gerais, ao concluir o ensino médio, me formei como Tecnico em TI e logo após adentrei a faculdade de Analise e Desenvolvimento de Sistemas. Conclui um curso de FullStack do Vai Na Web (foco em Javascript e Python), me aprofundando em tecnologias especificas para o mercado, apaixonado por tecnologias e aplicações!
 
 ### Contatos:
 
